@@ -183,7 +183,7 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200818165438.1">&lt;head&gt;
     &lt;meta charset="utf-8"&gt;
 
-    &lt;title&gt;reveal.js – The HTML Presentation Framework&lt;/title&gt;
+    &lt;title&gt;協同產品設計實習Stage2第一組&lt;/title&gt;
 
     &lt;meta name="description" content="A framework for easily creating beautiful presentations using HTML"&gt;
     &lt;meta name="author" content="Hakim El Hattab"&gt;
@@ -209,21 +209,22 @@ vertical: body pane on the botton</t>
 &lt;/div&gt;</t>
 <t tx="leo.20200818170328.1">&lt;section&gt;
     &lt;a href="https://revealjs.com"&gt;
-        &lt;img src="https://static.slid.es/reveal/logo-v1/reveal-white-text.svg" alt="reveal.js logo" style="height: 180px; margin: 0 auto 4rem auto; background: transparent;" class="demo-logo"&gt;
     &lt;/a&gt;
-    &lt;h3&gt;The HTML Presentation Framework&lt;/h3&gt;
+    &lt;h1&gt;協同產品設計實習&lt;/h1&gt;
+    &lt;h2&gt;STAGE2-BG1&lt;/h2&gt;
     &lt;p&gt;
-        &lt;small&gt;Created by &lt;a href="http://hakim.se"&gt;Hakim El Hattab&lt;/a&gt; and &lt;a href="https://github.com/hakimel/reveal.js/graphs/contributors"&gt;contributors&lt;/a&gt;&lt;/small&gt;
+        &lt;small&gt;小組成員 :&lt;a href="https://github.com/40823208/cd2021"&gt;40823208&lt;/a&gt;、 &lt;a href="https://github.com/40823245/cd2021"&gt;40823245&lt;/a&gt;、&lt;a href="https://github.com/40823246/cd2021"&gt;40823246&lt;/a&gt;、&lt;a href="https://github.com/40823251/cd2021"&gt;40823251&lt;/a&gt;&lt;/small&gt;
     &lt;/p&gt;
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20200818170535.1">&lt;section&gt;
-    &lt;h2&gt;Hello There&lt;/h2&gt;
+<t tx="leo.20200818170535.1">&lt;section data-background="#4682B4"&gt;
+    &lt;h2&gt;堆高機&lt;/h2&gt;
     &lt;p&gt;
         reveal.js enables you to create beautiful interactive slide decks using HTML. This presentation will show you examples of what it can do.
     &lt;/p&gt;
 &lt;/section&gt;
+
 
 </t>
 <t tx="leo.20200818170636.1">&lt;!-- Example of nested vertical slides --&gt;
