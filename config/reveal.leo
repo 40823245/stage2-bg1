@@ -273,22 +273,14 @@ vertical: body pane on the botton</t>
 
 &lt;/section&gt;</t>
 <t tx="leo.20210416145100.1">&lt;section data-background="#D2B48C"&gt;
-        &lt;h2&gt;第一版  最初版本&lt;/h2&gt;
-&lt;image src="第一版.png" width="500
-    " hight="200"&gt;
- &lt;p&gt;問題:由於前輪之連動轉彎機構無法正確同步走位，故其改之。&lt;/p&gt;
+
 &lt;/section&gt;</t>
 <t tx="leo.20210416145101.1">&lt;section data-background="#D2B48C"&gt;
-    &lt;h2&gt;第三版 修正內容:修正圖檔，添加攝像機&lt;/h2&gt;
-&lt;image src="第三版.png" width="500
-    " hight="200"&gt;
- &lt;p&gt;問題:單一攝像模組無法環顧四方，故需添加其他攝像模組。&lt;/p&gt;
+
 
 &lt;/section&gt;</t>
 <t tx="leo.20210416145102.1">&lt;section data-background="#D2B48C"&gt;
-    &lt;h2&gt;第四版 雙攝像頭&lt;/h2&gt;
-&lt;image src="第四版.png" width="500
-    " hight="200"&gt;
+
 &lt;/section&gt;</t>
 <t tx="leo.20210416150027.1">&lt;section data-background="#6495ED" data-background-transition="convex"&gt;
     &lt;h2&gt;PDF&lt;/h2&gt;
@@ -329,15 +321,10 @@ vertical: body pane on the botton</t>
  &lt;p&gt;提供前方滑軌剛性之支撐架。&lt;/p&gt; 
 &lt;/section&gt;</t>
 <t tx="leo.20210417171726.1">&lt;section data-background="#D2B48C"&gt;
-    &lt;h2&gt;第二版 修正內容:前輪簡化設計為連桿機構&lt;/h2&gt;
-&lt;image src="第二版.png" width="500
-    " hight="200"&gt;
- &lt;p&gt;問題:支撐桿升降卡頓，且測試旋轉軸設置在外。&lt;/p&gt;
+
  &lt;/section&gt;</t>
 <t tx="leo.20210417172045.1">&lt;section data-background="#D2B48C"&gt;
-    &lt;h2&gt;第五版 可使用(wsad)操控&lt;/h2&gt;
-&lt;image src="第五版.gif" width="500
-    " hight="200"&gt;
+
 &lt;/section&gt;</t>
 <t tx="leo.20210417173045.1">&lt;section data-background="	#483D8B"&gt;
     &lt;h2&gt;COPPELIASIM模擬影片&lt;/h2&gt;
