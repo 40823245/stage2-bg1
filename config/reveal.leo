@@ -212,8 +212,7 @@ vertical: body pane on the botton</t>
 
 </t>
 <t tx="leo.20200818170636.1">&lt;section data-background="#20B2AA" data-background-transition="zoom"&gt;
-    &lt;h2&gt;構造原理&lt;/h2&gt;
-透過前方兩支支撐桿載運物品，並利用滑軌裝置實現抬升及下降的動作，輪子可轉向用以達到目的地。
+
 &lt;/section&gt;
 
 </t>
@@ -252,16 +251,16 @@ vertical: body pane on the botton</t>
 
 &lt;/section&gt;</t>
 <t tx="leo.20210416140833.1">&lt;section data-background="#BDB76B"&gt;
-    &lt;h2&gt;載貨支撐架&lt;/h2&gt;
+  &lt;h2&gt;載貨支撐架&lt;/h2&gt;
 &lt;image src="載貨支撐架.png" width="300
     " hight="100"&gt;
- &lt;p&gt;透過前方支撐架將物品做抬升及下降的動作。&lt;/p&gt;   
+ &lt;p&gt;透過前方支撐架將物品做抬升及下降的動作。&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210416140833.2">&lt;section data-background="#BDB76B"&gt;
 &lt;h2&gt;車輪&lt;/h2&gt;
 &lt;image src="車輪.png" width="300
     " hight="100"&gt;
- &lt;p&gt;可進行轉彎及前進的動作,帶動整部機械的核心轉軸。&lt;/p&gt; 
+ &lt;p&gt;可進行轉彎及前進的動作,帶動整部機械的核心轉軸。&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210416140833.3">&lt;section data-background="#BDB76B"&gt;
 &lt;h2&gt;外車殼&lt;/h2&gt;
@@ -313,33 +312,15 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 </t>
 <t tx="leo.20210417155239.1" annotate="7d71002858080000007072696f7269747971014b64580a000000707269736574646174657102580a000000323032312d30342d31377103752e" icons="5d71007d7101285804000000747970657102580400000066696c65710368035837000000593a2f507974686f6e33392f4c69622f736974652d7061636b616765732f6c656f2f49636f6e732f636c656f2f63686b626c6b2e706e677104580700000072656c506174687105580f000000636c656f2f63686b626c6b2e706e677106580500000077686572657107580e0000006265666f7265486561646c696e6571085807000000796f666673657471094b005807000000786f6666736574710a4b02580400000078706164710b4b0158020000006f6e710c5805000000766e6f6465710d5808000000636c656f49636f6e710e580100000031710f75612e">&lt;section data-background="#4682B4" data-background-transition="zoom"&gt;
-    &lt;h2&gt;動機&lt;/h2&gt;
-    &lt;p&gt;Why 為何設計此產品:&lt;/p&gt;
-    &lt;p&gt;可以幫助人將重物搬到定位；希望物品實現量產時能快速且準確的將產品運送到各個有需求的地方。&lt;/p&gt;
-&lt;p&gt;What 產品設計時想實現甚麼功能:&lt;/p&gt;
-&lt;p&gt;是一台可以實現遠端控制方向及前桿臂可舉起重物之堆高機。&lt;/p&gt;
+
 
 
 &lt;/section&gt;</t>
 <t tx="leo.20210417155239.2">&lt;section data-background="#4682B4" data-background-transition="zoom"&gt;
-    &lt;h2&gt;動機&lt;/h2&gt;
-&lt;p&gt;How 如何完成產品設計:&lt;/p&gt;
-&lt;p&gt;透過每一位組員分工採取協同的方式對產品進行修正與補償，如果遇到問題將其寫進個人網誌中並與組員討論使其解決。&lt;/p&gt;    
-&lt;p&gt;When 什麼時候進行:&lt;/p&gt;
-&lt;p&gt;利用每個禮拜五上課的時間如有問題互相幫助，平日則利用群組聯絡的方式實現討論及修正。&lt;/p&gt;
+
 &lt;/section&gt;</t>
 <t tx="leo.20210417162616.1">&lt;section data-background="#4682B4" data-background-transition="zoom"&gt;  
-&lt;p&gt;Where 在哪裡討論:&lt;/p&gt;
-     &lt;p&gt;1.8樓電腦教室&lt;/p&gt;
-    &lt;p&gt; 2.Line群組:stage2-bg1討論&lt;/p&gt;
-     &lt;p&gt;3.gitter:stage2-bg1&lt;/p&gt;
-&lt;/p&gt;
-&lt;p&gt;Who 組員分工:&lt;/p&gt;
-&lt;p&gt;40823208:網頁編輯、revael設計&lt;/p&gt;
-    &lt;p&gt;40823245:CoppeliaSim模擬&lt;/p&gt;
-   &lt;p&gt; 40823246:機構設計、CoppeliaSim模擬&lt;/p&gt;
-    &lt;p&gt;40823251:網頁編輯、PDF製作
-&lt;/p&gt;
+
 &lt;/section&gt;</t>
 <t tx="leo.20210417164157.1">&lt;section data-background="#BDB76B"&gt;
 &lt;h2&gt;底盤車架&lt;/h2&gt;
