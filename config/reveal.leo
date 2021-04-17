@@ -36,13 +36,15 @@
 <v t="leo.20200818171138.1"><vh>slide 5 </vh>
 <v t="leo.20210416145057.1"><vh>5-1</vh></v>
 <v t="leo.20210416145100.1"><vh>5-2</vh></v>
-<v t="leo.20210416145101.1"><vh>5-3</vh></v>
-<v t="leo.20210416145102.1"><vh>5-4</vh></v>
+<v t="leo.20210417171726.1"><vh>5-3</vh></v>
+<v t="leo.20210416145101.1"><vh>5-4</vh></v>
+<v t="leo.20210416145102.1"><vh>5-5</vh></v>
+<v t="leo.20210417172045.1"><vh>5-6</vh></v>
 </v>
 <v t="leo.20210416150442.1"><vh>slide 6</vh>
 <v t="leo.20210416150530.1"><vh>6-1</vh></v>
-<v t="leo.20210416150532.1"><vh>6-2</vh></v>
-<v t="leo.20210416150533.1"><vh>6-3</vh></v>
+<v t="leo.20210416150533.1"><vh>6-2</vh></v>
+<v t="leo.20210417173045.1"><vh>6-3</vh></v>
 </v>
 <v t="leo.20200818171215.1"><vh>slide 7</vh></v>
 <v t="leo.20210416150027.1"><vh>slide 8</vh></v>
@@ -235,6 +237,12 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200818171244.1">&lt;section data-background="#9370DB" data-background-transition="convex"&gt;
     &lt;h2&gt;參考資料&lt;/h2&gt;
+堆高機
+&lt;p&gt;1. https://www.taifork.com.tw/product/category1
+&lt;p&gt; 2.https://static.iyp.tw/39646/products/photooriginal-1756552-BKkBY.jpg &lt;/p&gt;
+3.http://www.taiwankomatsu.tw/web/about/about.jsp?cp_no=CP1543769191951 &lt;/p&gt;
+&lt;p&gt;Heroku&lt;/p&gt;
+&lt;p&gt;http://mde.tw/wcm2021/content/Heroku-%E5%AF%A6%E4%BD%9C.html &lt;/p&gt;
 
 &lt;/section&gt;
 
@@ -272,12 +280,16 @@ vertical: body pane on the botton</t>
  &lt;p&gt;問題:由於前輪之連動轉彎機構無法正確同步走位，故其改之。&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210416145101.1">&lt;section data-background="#D2B48C"&gt;
-    &lt;h2&gt;COPPELIASIM程式模擬&lt;/h2&gt;
+    &lt;h2&gt;第三版 修正內容:修正圖檔，添加攝像機&lt;/h2&gt;
+&lt;image src="第三版.png" width="500
+    " hight="200"&gt;
+ &lt;p&gt;問題:單一攝像模組無法環顧四方，故需添加其他攝像模組。&lt;/p&gt;
 
 &lt;/section&gt;</t>
 <t tx="leo.20210416145102.1">&lt;section data-background="#D2B48C"&gt;
-    &lt;h2&gt;COPPELIASIM程式模擬&lt;/h2&gt;
-
+    &lt;h2&gt;第四版 雙攝像頭&lt;/h2&gt;
+&lt;image src="第四版.png" width="500
+    " hight="200"&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210416150027.1">&lt;section data-background="#6495ED" data-background-transition="convex"&gt;
     &lt;h2&gt;PDF&lt;/h2&gt;
@@ -291,13 +303,8 @@ vertical: body pane on the botton</t>
     &lt;h2&gt;COPPELIASIM模擬影片&lt;/h2&gt;
 
 &lt;/section&gt;</t>
-<t tx="leo.20210416150532.1">&lt;section data-background="	#483D8B"&gt;
-    &lt;h2&gt;COPPELIASIM模擬影片&lt;/h2&gt;
-
-&lt;/section&gt;</t>
 <t tx="leo.20210416150533.1">&lt;section data-background="	#483D8B"&gt;
     &lt;h2&gt;COPPELIASIM模擬影片&lt;/h2&gt;
-
 &lt;/section&gt;</t>
 <t tx="leo.20210417155235.1">&lt;section data-background="#4682B4" data-background-transition="zoom"&gt;
     &lt;h2&gt;堆高機&lt;/h2&gt;
@@ -339,6 +346,20 @@ vertical: body pane on the botton</t>
 &lt;image src="底盤車架.png" width="300
     " hight="100"&gt;
  &lt;p&gt;提供前方滑軌剛性之支撐架。&lt;/p&gt; 
+&lt;/section&gt;</t>
+<t tx="leo.20210417171726.1">&lt;section data-background="#D2B48C"&gt;
+    &lt;h2&gt;第二版 修正內容:前輪簡化設計為連桿機構&lt;/h2&gt;
+&lt;image src="第二版.png" width="500
+    " hight="200"&gt;
+ &lt;p&gt;問題:支撐桿升降卡頓，且測試旋轉軸設置在外。&lt;/p&gt;
+ &lt;/section&gt;</t>
+<t tx="leo.20210417172045.1">&lt;section data-background="#D2B48C"&gt;
+    &lt;h2&gt;第五版 可使用(wsad)操控&lt;/h2&gt;
+&lt;image src="第五版.gif" width="500
+    " hight="200"&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210417173045.1">&lt;section data-background="	#483D8B"&gt;
+    &lt;h2&gt;COPPELIASIM模擬影片&lt;/h2&gt;
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
