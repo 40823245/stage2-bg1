@@ -212,7 +212,8 @@ vertical: body pane on the botton</t>
 
 </t>
 <t tx="leo.20200818170636.1">&lt;section data-background="#20B2AA" data-background-transition="zoom"&gt;
-
+  &lt;h2&gt;構造原理&lt;/h2&gt;
+透過前方兩支支撐桿載運物品，並利用滑軌裝置實現抬升及下降的動作，輪子可轉向用以達到目的地。
 &lt;/section&gt;
 
 </t>
@@ -273,14 +274,22 @@ vertical: body pane on the botton</t>
 
 &lt;/section&gt;</t>
 <t tx="leo.20210416145100.1">&lt;section data-background="#D2B48C"&gt;
-
+ &lt;h2&gt;第一版  最初版本&lt;/h2&gt;
+&lt;image src="第一版.gif" width="500
+    " hight="200"&gt;
+ &lt;p&gt;問題:由於前輪之連動轉彎機構無法正確同步走位，故其改之。&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210416145101.1">&lt;section data-background="#D2B48C"&gt;
-
+ &lt;h3&gt;第三版 修正內容:修正圖檔，添加攝像機&lt;/h3&gt;
+&lt;image src="第三版.gif" width="350
+    " hight="200"&gt;
+ &lt;p&gt;問題:單一攝像模組無法環顧四方，故需添加其他攝像模組。&lt;/p&gt;
 
 &lt;/section&gt;</t>
 <t tx="leo.20210416145102.1">&lt;section data-background="#D2B48C"&gt;
-
+  &lt;h2&gt;第四版 雙攝像頭&lt;/h2&gt;
+&lt;image src="第四版.gif" width="500
+    " hight="200"&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210416150027.1">&lt;section data-background="#6495ED" data-background-transition="convex"&gt;
     &lt;h2&gt;PDF&lt;/h2&gt;
@@ -291,11 +300,16 @@ vertical: body pane on the botton</t>
     @others
 &lt;/section&gt;</t>
 <t tx="leo.20210416150530.1">&lt;section data-background="	#483D8B"&gt;
-    &lt;h2&gt;COPPELIASIM模擬影片&lt;/h2&gt;
+    &lt;h2&gt;Heroku 建立&lt;/h2&gt;
 
 &lt;/section&gt;</t>
 <t tx="leo.20210416150533.1">&lt;section data-background="	#483D8B"&gt;
-    &lt;h2&gt;COPPELIASIM模擬影片&lt;/h2&gt;
+   &lt;p&gt;測試人員:40823245&lt;/p&gt;
+&lt;p&gt;1.登入heroku，以s學號辦app，建立第一個app
+  (https://s學號.herokuapp.com) &lt;/p&gt;
+2.載heroku，放置data裡
+3.將start丟入白窗修改路徑
+
 &lt;/section&gt;</t>
 <t tx="leo.20210417155235.1">&lt;section data-background="#4682B4" data-background-transition="zoom"&gt;
     &lt;h2&gt;堆高機&lt;/h2&gt;
@@ -304,15 +318,30 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 </t>
 <t tx="leo.20210417155239.1" annotate="7d71002858080000007072696f7269747971014b64580a000000707269736574646174657102580a000000323032312d30342d31377103752e" icons="5d71007d7101285804000000747970657102580400000066696c65710368035837000000593a2f507974686f6e33392f4c69622f736974652d7061636b616765732f6c656f2f49636f6e732f636c656f2f63686b626c6b2e706e677104580700000072656c506174687105580f000000636c656f2f63686b626c6b2e706e677106580500000077686572657107580e0000006265666f7265486561646c696e6571085807000000796f666673657471094b005807000000786f6666736574710a4b02580400000078706164710b4b0158020000006f6e710c5805000000766e6f6465710d5808000000636c656f49636f6e710e580100000031710f75612e">&lt;section data-background="#4682B4" data-background-transition="zoom"&gt;
-
-
-
+    &lt;p&gt;Why 為何設計此產品:&lt;/p&gt;
+    &lt;p&gt;可以幫助人將重物搬到定位；希望物品實現量產時能快速且準確的將產品運送到各個有需求的地方。&lt;/p&gt;
+&lt;p&gt;What 產品設計時想實現甚麼功能:&lt;/p&gt;
+&lt;p&gt;是一台可以實現遠端控制方向及前桿臂可舉起重物之堆高機。&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210417155239.2">&lt;section data-background="#4682B4" data-background-transition="zoom"&gt;
-
+ &lt;h2&gt;動機&lt;/h2&gt;
+&lt;p&gt;How 如何完成產品設計:&lt;/p&gt;
+&lt;p&gt;透過每一位組員分工採取協同的方式對產品進行修正與補償，如果遇到問題將其寫進個人網誌中並與組員討論使其解決。&lt;/p&gt;    
+&lt;p&gt;When 什麼時候進行:&lt;/p&gt;
+&lt;p&gt;利用每個禮拜五上課的時間如有問題互相幫助，平日則利用群組聯絡的方式實現討論及修正。&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210417162616.1">&lt;section data-background="#4682B4" data-background-transition="zoom"&gt;  
-
+&lt;p&gt;Where 在哪裡討論:&lt;/p&gt;
+     &lt;p&gt;1.8樓電腦教室&lt;/p&gt;
+    &lt;p&gt; 2.Line群組:stage2-bg1討論&lt;/p&gt;
+     &lt;p&gt;3.gitter:stage2-bg1&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;Who 組員分工:&lt;/p&gt;
+&lt;p&gt;40823208:網頁編輯、revael設計&lt;/p&gt;
+    &lt;p&gt;40823245:CoppeliaSim模擬&lt;/p&gt;
+   &lt;p&gt; 40823246:機構設計、CoppeliaSim模擬&lt;/p&gt;
+    &lt;p&gt;40823251:網頁編輯、PDF製作
+&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210417164157.1">&lt;section data-background="#BDB76B"&gt;
 &lt;h2&gt;底盤車架&lt;/h2&gt;
@@ -321,10 +350,14 @@ vertical: body pane on the botton</t>
  &lt;p&gt;提供前方滑軌剛性之支撐架。&lt;/p&gt; 
 &lt;/section&gt;</t>
 <t tx="leo.20210417171726.1">&lt;section data-background="#D2B48C"&gt;
-
+ &lt;h3&gt;第二版修正內容:前輪簡化設計連桿機構&lt;/h3&gt;
+&lt;image src="第二版.gif" width="500
+    " hight="200"&gt;
+&lt;p&gt;問題:支撐桿升降卡頓，且測試旋轉軸設置在外。&lt;/p&gt;
  &lt;/section&gt;</t>
 <t tx="leo.20210417172045.1">&lt;section data-background="#D2B48C"&gt;
-
+ &lt;h2&gt;第五版 新增可遙控裝置&lt;/h2&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/9jSL6wyWIbM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210417173045.1">&lt;section data-background="	#483D8B"&gt;
     &lt;h2&gt;COPPELIASIM模擬影片&lt;/h2&gt;
