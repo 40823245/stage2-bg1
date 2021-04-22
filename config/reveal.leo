@@ -55,6 +55,7 @@
 <v t="leo.20210422160022.2"><vh>6-7</vh></v>
 <v t="leo.20210422161633.1"><vh>6-8</vh></v>
 <v t="leo.20210422161906.1"><vh>6-9</vh></v>
+<v t="leo.20210422214649.1"><vh>6-10</vh></v>
 </v>
 <v t="leo.20200818171215.1"><vh>slide 7</vh></v>
 <v t="leo.20210416150027.1"><vh>slide 8</vh></v>
@@ -576,5 +577,9 @@ function sysCall_actuation()
 end
     &lt;/code&gt;&lt;/pre&gt;
     &lt;/section&gt;</t>
+<t tx="leo.20210422214649.1">&lt;section data-background="	#483D8B"&gt;
+&lt;h2&gt;heroku教學影片&lt;/h2&gt;
+&lt;iframe width="600" height="400" src="https://www.youtube.com/embed/5DLXXiHvKiQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/section&gt;</t>
 </tnodes>
 </leo_file>
