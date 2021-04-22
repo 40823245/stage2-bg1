@@ -40,11 +40,18 @@
 <v t="leo.20210416145101.1"><vh>5-4</vh></v>
 <v t="leo.20210416145102.1"><vh>5-5</vh></v>
 <v t="leo.20210417172045.1"><vh>5-6</vh></v>
+<v t="leo.20210422164005.1"><vh>5-7</vh></v>
 </v>
 <v t="leo.20210416150442.1"><vh>slide 6</vh>
 <v t="leo.20210416150530.1"><vh>6-1</vh></v>
 <v t="leo.20210416150533.1"><vh>6-2</vh></v>
 <v t="leo.20210417173045.1"><vh>6-3</vh></v>
+<v t="leo.20210422160021.1"><vh>6-4</vh></v>
+<v t="leo.20210422160021.2"><vh>6-5</vh></v>
+<v t="leo.20210422160022.1"><vh>6-6</vh></v>
+<v t="leo.20210422160022.2"><vh>6-7</vh></v>
+<v t="leo.20210422161633.1"><vh>6-8</vh></v>
+<v t="leo.20210422161906.1"><vh>6-9</vh></v>
 </v>
 <v t="leo.20200818171215.1"><vh>slide 7</vh></v>
 <v t="leo.20210416150027.1"><vh>slide 8</vh></v>
@@ -231,18 +238,18 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200818171215.1">&lt;section data-background="#8FBC8F" data-background-transition="concave"&gt;
     &lt;h2&gt;心得&lt;/h2&gt;
-
+原先我們所選擇要做的主題為轉子引擎，但由於始終無法找到有效的解決辦法去改善轉子滑動的問題，經過小組會議決定透過引擎的想法去做延伸；故聯想到堆高機，可做抬升及下降運動且可模擬輪子的移動；測試時也遇到了許多大大小小的問題，但經過和組員的協同去對作品進行改善使其完成式一件非常開心的事。
 &lt;/section&gt;
 
 </t>
 <t tx="leo.20200818171244.1">&lt;section data-background="#9370DB" data-background-transition="convex"&gt;
     &lt;h2&gt;參考資料&lt;/h2&gt;
-堆高機
-&lt;p&gt;1. https://www.taifork.com.tw/product/category1
-&lt;p&gt; 2.https://static.iyp.tw/39646/products/photooriginal-1756552-BKkBY.jpg &lt;/p&gt;
-3.http://www.taiwankomatsu.tw/web/about/about.jsp?cp_no=CP1543769191951 &lt;/p&gt;
+&lt;p&gt;堆高機&lt;/p&gt;
+&lt;a href="https://www.taifork.com.tw/product/category1"&gt;1. https://www.taifork.com.tw/product/category1 &lt;/a&gt;
+&lt;a href="https://static.iyp.tw/39646/products/photooriginal-1756552-BKkBY.jpg "&gt;2.https://static.iyp.tw/39646/products/photooriginal-1756552-BKkBY.jpg &lt;/a&gt;
+&lt;a href="http://www.taiwankomatsu.tw/web/about/about.jsp?cp_no=CP1543769191951"&gt;3.http://www.taiwankomatsu.tw/web/about/about.jsp?cp_no=CP1543769191951 &lt;/a&gt;
 &lt;p&gt;Heroku&lt;/p&gt;
-&lt;p&gt;http://mde.tw/wcm2021/content/Heroku-%E5%AF%A6%E4%BD%9C.html &lt;/p&gt;
+&lt;a href="http://mde.tw/wcm2021/content/Heroku-%E5%AF%A6%E4%BD%9C.html "&gt;http://mde.tw/wcm2021/content/Heroku-%E5%AF%A6%E4%BD%9C.html &lt;/a&gt;
 
 &lt;/section&gt;
 
@@ -293,6 +300,7 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;</t>
 <t tx="leo.20210416150027.1">&lt;section data-background="#6495ED" data-background-transition="convex"&gt;
     &lt;h2&gt;PDF&lt;/h2&gt;
+&lt;iframe data-src="報告.pdf" width="800" height="600" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:3px solid #666; margin-bottom:5px; max-width: 100%;" allowfullscreen&gt; &lt;/iframe&gt;
 
 &lt;/section&gt;</t>
 <t tx="leo.20210416150442.1">&lt;!-- Example of nested vertical slides --&gt;
@@ -356,11 +364,53 @@ vertical: body pane on the botton</t>
 &lt;p&gt;問題:支撐桿升降卡頓，且測試旋轉軸設置在外。&lt;/p&gt;
  &lt;/section&gt;</t>
 <t tx="leo.20210417172045.1">&lt;section data-background="#D2B48C"&gt;
- &lt;h2&gt;第五版 新增可遙控裝置&lt;/h2&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/9jSL6wyWIbM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;h2&gt;新增內容:新增可愛假人模擬乘坐&lt;/h2&gt;
+&lt;image src="第五版.gif" width="450
+    " hight="200"&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210417173045.1">&lt;section data-background="	#483D8B"&gt;
-    &lt;h2&gt;COPPELIASIM模擬影片&lt;/h2&gt;
+    &lt;h3&gt;程式&lt;/h3&gt;
+    &lt;image src="heroku-1.png" width="500
+    " hight="200"&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210422160021.1">&lt;section data-background="	#483D8B"&gt;
+&lt;p&gt;4.重啟後測試是否能執行heroku.exe&lt;/p&gt;
+5.到小黑窗輸入heroku version
+   &lt;p&gt; &lt;image src="heroku-2.png" width="500
+    " hight="200"&gt;&lt;/p&gt;
+    有上面回應就是可以
+&lt;/section&gt;</t>
+<t tx="leo.20210422160021.2">&lt;section data-background="	#483D8B"&gt;
+6.進到tmp&gt;stage2-bg1(自己組)
+&lt;p&gt;7.輸入git remote add heroku https://git.heroku.com/s40823245.git &lt;/p&gt;
+  可以在.git裡面的config看到
+   &lt;p&gt; &lt;image src="heroku-3.png" width="300
+    " hight="200"&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210422160022.1">&lt;section data-background="	#483D8B"&gt;
+ 8.若資料夾裡不是最新的版本要先git pull
+&lt;p&gt; &lt;image src="heroku-4.png" width="700
+    " hight="200"&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210422160022.2">&lt;section data-background="	#483D8B"&gt;
+  &lt;p&gt; 9.然後打git push heroku&lt;/p&gt;
+   &lt;image src="heroku-5.png" width="700
+    " hight="200"&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210422161633.1">&lt;section data-background="	#483D8B"&gt;
+&lt;p&gt;&lt;image src="heroku-6.png" width="700
+    " hight="200"&gt;&lt;/p&gt;
+就能在https://s學號.herokuapp.com看到stage2-bg1的網站
+    &lt;/section&gt;</t>
+<t tx="leo.20210422161906.1">&lt;section data-background="	#483D8B"&gt;
+&lt;p&gt;heroku指令&lt;/p&gt;
+&lt;p&gt;在黑窗打指令登錄heroku---heroku login -i&lt;/p&gt;
+&lt;p&gt;輸入剛剛創heroku帳號的email、輸入heroku密碼&lt;/p&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210422164005.1">&lt;section data-background="#D2B48C"&gt;
+ &lt;h2&gt;第五版 新增可遙控裝置&lt;/h2&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/9jSL6wyWIbM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
