@@ -44,6 +44,7 @@
 <v t="leo.20210422164005.1"><vh>5-7</vh></v>
 <v t="leo.20210422212208.1"><vh>5-9</vh></v>
 <v t="leo.20210422213225.1"><vh>5-8</vh></v>
+<v t="leo.20210422235328.1"><vh>5-9</vh></v>
 </v>
 <v t="leo.20210416150442.1"><vh>slide 6</vh>
 <v t="leo.20210416150530.1"><vh>6-1</vh></v>
@@ -452,13 +453,15 @@ vertical: body pane on the botton</t>
 &lt;image src="齒輪轉軸.png" width="300
     " hight="100"&gt;
  &lt;p&gt;為了使支撐架能產生更加平穩的作動故新增齒輪使其相互咬合。&lt;/p&gt; 
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20210422212208.1">&lt;section data-background="#D2B48C"&gt;
   &lt;h2&gt;第六版 (最終版)新增雙滑軌設計&lt;/h2&gt;
 &lt;p&gt;&lt;image src="第六版.gif" width="500
     " hight="200"&gt;&lt;/p&gt;
     目的:由於原先為一滑軌作動，故支撐架抬升時會導致無法固定在定點位，此次改版新增了雙滑軌加上齒輪作咬合使其控制時更加平穩
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20210422213225.1">&lt;section data-background="#D2B48C"&gt;
  &lt;h2&gt;程式碼&lt;/h2&gt;
  &lt;pre data-id="code-animation"&gt;&lt;code class="hljs" data-trim data-line-numbers&gt;
@@ -576,10 +579,16 @@ function sysCall_actuation()
      
 end
     &lt;/code&gt;&lt;/pre&gt;
-    &lt;/section&gt;</t>
+    &lt;/section&gt;
+</t>
 <t tx="leo.20210422214649.1">&lt;section data-background="	#483D8B"&gt;
 &lt;h2&gt;heroku教學影片&lt;/h2&gt;
-&lt;iframe width="600" height="400" src="https://www.youtube.com/embed/5DLXXiHvKiQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/section&gt;</t>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/5DLXXiHvKiQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210422235328.1">&lt;section data-background="#D2B48C"&gt;
+ &lt;h2&gt;最終模擬影片&lt;/h2&gt;
+ &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/M_rAcqZ-wRs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
